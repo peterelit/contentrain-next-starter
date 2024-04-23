@@ -33,5 +33,15 @@
       }
     },
     "fieldType": "date"
+  },
+  {
+    "name": "Portada",
+    "description": "Foto de portada",
+    "fieldId": "portada",
+    "modelId": "noticia",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
