@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Titulo",
+    "description": "Título de la noticia",
+    "fieldId": "titulo",
+    "modelId": "noticia",
+    "componentId": "single-line-text",
+    "options": {
+      "title-field": {
+        "value": true
+      }
+    },
+    "validations": {
+      "required-field": {
+        "value": true
+      },
+      "unique-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string"
+  }
+]
