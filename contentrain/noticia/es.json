@@ -1,0 +1,12 @@
+[
+  {
+    "ID": "3317d69941a8",
+    "createdAt": "Tue Apr 23 2024 20:03:09 GMT+0200 (hora de verano de Europa central)",
+    "updatedAt": "Tue Apr 23 2024 20:03:09 GMT+0200 (hora de verano de Europa central)",
+    "titulo": "Noticia número 1",
+    "fecha": "2024-04-23T18:03:00.000Z",
+    "portada": "public/images/1705750433763_browser-1.png",
+    "status": "draft",
+    "scheduled": false
+  }
+]
