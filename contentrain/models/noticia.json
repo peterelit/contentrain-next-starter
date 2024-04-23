@@ -19,5 +19,19 @@
       }
     },
     "fieldType": "string"
+  },
+  {
+    "name": "Fecha",
+    "description": "Fecha de la noticia",
+    "fieldId": "fecha",
+    "modelId": "noticia",
+    "componentId": "date",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "date"
   }
 ]
